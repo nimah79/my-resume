@@ -1,2 +1,2 @@
 # my-resume
-My resume/CV with HTML format
+My resume/CV
